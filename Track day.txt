@@ -1,0 +1,26 @@
+Name: Marcus Lai
+Project Title: Track Day! 
+Project Stack: MERN
+GitHub Repo: https://github.com/mlai003/soloProject.git
+
+
+https://github.com/mlai003/soloProject.git
+
+My solo project will be a track day sign up forum. I will be using React front end and Node + Express backend. 
+
+The website will allow users to create a profile and join track day events. The home page will consist of all upcoming track day events which can be edited or deleted by the creator.  
+Each user will create a profile about themselves as well as the car they plan on driving during the event. 
+For each track day event, there will be begginner and advanced group to join into. Users trying to join the advanced group must previously have at least 3 track day events to join.
+
+Week 1 Features:
+Basic CRUD
+Main page will consist of all current races events 
+Each race event is a link that will redirect to the display race page consisting of each person in the race. Each person is a link thay will redirectto a display info page.
+Will have 2 forms, one for creating race events and another to join them. 
+
+Week 2 Features: 
+
+
+Product Backlog
+
+I may include a login and register page so only the user can edit/delete their profile or event they initially created. 
